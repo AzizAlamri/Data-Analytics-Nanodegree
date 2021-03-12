@@ -1,10 +1,10 @@
 ## Introduction
-
-I am a CPA with two-year experience in public accounting. I am paasionate about data analysis and technology. I am learning data analytics in Udacity Nanodegree. I have learned almost every aspect of data science. This is a repository that holds my quizes. [Projects](https://github.com/rachelfu/Data-Science-Project) and [notes](https://github.com/rachelfu/Toolkit) are in another repository.
-
-## Getting Started
-
-This program will include organizing data, uncovering patterns and insights, making predictions with machine learning, and clearly communicating critical findings.
+During the 4 months of this journey, using python libraries I developed strong skills by working on 5 projects that interesting in:
+ 
+- Advanced SQL 
+- Parctical Statistics
+- Data Wrangling 
+- Data Visulization
 
 ### Prerequisites
 
